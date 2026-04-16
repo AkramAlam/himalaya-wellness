@@ -1,0 +1,13 @@
+@import "tailwindcss"; /* <-- Yeh v4 ka naya syntax hai */
+
+/* Smooth Scrolling aur basic reset */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  background-color: #f8fafc;
+}
